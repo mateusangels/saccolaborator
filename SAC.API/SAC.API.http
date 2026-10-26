@@ -1,0 +1,6 @@
+@SAC.API_HostAddress = http://localhost:5251
+
+GET {{SAC.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

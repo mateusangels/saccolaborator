@@ -1,0 +1,16 @@
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\bin\Debug\net10.0\SAC.Infrastructure.deps.json
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\bin\Debug\net10.0\SAC.Infrastructure.dll
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\bin\Debug\net10.0\SAC.Infrastructure.pdb
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\bin\Debug\net10.0\SAC.Domain.dll
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\bin\Debug\net10.0\SAC.Domain.pdb
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\obj\Debug\net10.0\SAC.Infrastructure.csproj.AssemblyReference.cache
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\obj\Debug\net10.0\SAC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\obj\Debug\net10.0\SAC.Infrastructure.AssemblyInfoInputs.cache
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\obj\Debug\net10.0\SAC.Infrastructure.AssemblyInfo.cs
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\obj\Debug\net10.0\SAC.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\obj\Debug\net10.0\SAC.Infrastructure.sourcelink.json
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\obj\Debug\net10.0\SAC.Infr.8614F0EB.Up2Date
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\obj\Debug\net10.0\SAC.Infrastructure.dll
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\obj\Debug\net10.0\refint\SAC.Infrastructure.dll
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\obj\Debug\net10.0\SAC.Infrastructure.pdb
+D:\DEV\EMPRESA\SAC\backend\SAC.Infrastructure\obj\Debug\net10.0\ref\SAC.Infrastructure.dll

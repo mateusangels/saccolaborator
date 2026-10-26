@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SAC.API/SAC.API.csproj" />
+  <Project Path="SAC.Application/SAC.Application.csproj" />
+  <Project Path="SAC.CrossCutting/SAC.CrossCutting.csproj" />
+  <Project Path="SAC.Domain/SAC.Domain.csproj" />
+  <Project Path="SAC.Infrastructure/SAC.Infrastructure.csproj" />
+</Solution>

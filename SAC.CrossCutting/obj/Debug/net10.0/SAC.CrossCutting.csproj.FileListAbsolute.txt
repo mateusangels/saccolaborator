@@ -1,0 +1,12 @@
+D:\DEV\EMPRESA\SAC\backend\SAC.CrossCutting\bin\Debug\net10.0\SAC.CrossCutting.deps.json
+D:\DEV\EMPRESA\SAC\backend\SAC.CrossCutting\bin\Debug\net10.0\SAC.CrossCutting.dll
+D:\DEV\EMPRESA\SAC\backend\SAC.CrossCutting\bin\Debug\net10.0\SAC.CrossCutting.pdb
+D:\DEV\EMPRESA\SAC\backend\SAC.CrossCutting\obj\Debug\net10.0\SAC.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\EMPRESA\SAC\backend\SAC.CrossCutting\obj\Debug\net10.0\SAC.CrossCutting.AssemblyInfoInputs.cache
+D:\DEV\EMPRESA\SAC\backend\SAC.CrossCutting\obj\Debug\net10.0\SAC.CrossCutting.AssemblyInfo.cs
+D:\DEV\EMPRESA\SAC\backend\SAC.CrossCutting\obj\Debug\net10.0\SAC.CrossCutting.csproj.CoreCompileInputs.cache
+D:\DEV\EMPRESA\SAC\backend\SAC.CrossCutting\obj\Debug\net10.0\SAC.CrossCutting.sourcelink.json
+D:\DEV\EMPRESA\SAC\backend\SAC.CrossCutting\obj\Debug\net10.0\SAC.CrossCutting.dll
+D:\DEV\EMPRESA\SAC\backend\SAC.CrossCutting\obj\Debug\net10.0\refint\SAC.CrossCutting.dll
+D:\DEV\EMPRESA\SAC\backend\SAC.CrossCutting\obj\Debug\net10.0\SAC.CrossCutting.pdb
+D:\DEV\EMPRESA\SAC\backend\SAC.CrossCutting\obj\Debug\net10.0\ref\SAC.CrossCutting.dll

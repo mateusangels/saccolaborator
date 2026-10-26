@@ -1,0 +1,12 @@
+D:\DEV\EMPRESA\SAC\backend\SAC.Application\bin\Debug\net10.0\SAC.Application.deps.json
+D:\DEV\EMPRESA\SAC\backend\SAC.Application\bin\Debug\net10.0\SAC.Application.dll
+D:\DEV\EMPRESA\SAC\backend\SAC.Application\bin\Debug\net10.0\SAC.Application.pdb
+D:\DEV\EMPRESA\SAC\backend\SAC.Application\obj\Debug\net10.0\SAC.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\EMPRESA\SAC\backend\SAC.Application\obj\Debug\net10.0\SAC.Application.AssemblyInfoInputs.cache
+D:\DEV\EMPRESA\SAC\backend\SAC.Application\obj\Debug\net10.0\SAC.Application.AssemblyInfo.cs
+D:\DEV\EMPRESA\SAC\backend\SAC.Application\obj\Debug\net10.0\SAC.Application.csproj.CoreCompileInputs.cache
+D:\DEV\EMPRESA\SAC\backend\SAC.Application\obj\Debug\net10.0\SAC.Application.sourcelink.json
+D:\DEV\EMPRESA\SAC\backend\SAC.Application\obj\Debug\net10.0\SAC.Application.dll
+D:\DEV\EMPRESA\SAC\backend\SAC.Application\obj\Debug\net10.0\refint\SAC.Application.dll
+D:\DEV\EMPRESA\SAC\backend\SAC.Application\obj\Debug\net10.0\SAC.Application.pdb
+D:\DEV\EMPRESA\SAC\backend\SAC.Application\obj\Debug\net10.0\ref\SAC.Application.dll
